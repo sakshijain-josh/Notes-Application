@@ -56,11 +56,8 @@ Content: - Milk
          - Butter
 ```
 
-### Viewing Notes
 
 
-
-For questions or issues, please open an issue in the repository.
 
 ---
 
